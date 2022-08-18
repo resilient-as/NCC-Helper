@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NCC</string>
+    <string name="welcome_cadet_jai_hind">WELCOME CADET, JAI HIND!</string>
+    <string name="father_name">Father Name</string>
+    <string name="your_city_name">Your City Name</string>
+    <string name="your_unit">Your Unit</string>
+    <string name="aadhar_number">Aadhar Number</string>
+    <string name="first_name">First Name</string>
+    <string name="dob">DOB</string>
+    <string name="pin_code">Pin Code</string>
+    <string name="your_gender">Your Gender</string>
+    <string name="insert_photo">INSERT PHOTO</string>
+    <string name="last_name">Last Name</string>
+    <string name="mother_name">Mother Name</string>
+    <string name="your_college_name">Your College Name</string>
+    <string name="nationality">Nationality</string>
+    <string name="cadet_s_photo">Cadet\'s Photo</string>
+    <string name="postal_address">Postal Address</string>
+    <string name="enrollment_year">Enrollment Year</string>
+    <string name="cadet_registration">CADET REGISTRATION</string>
+    <string name="password">PASSWORD</string>
+    <string name="i_m_the_associate_ncc_officer">I\'M THE ASSOCIATE NCC OFFICER</string>
+    <string name="i_m_the_commanding_officer">I\'M THE COMMANDING OFFICER</string>
+    <string name="username">USERNAME</string>
+    <string name="contact_no">Contact No.</string>
+    <string name="register">REGISTER</string>
+    <string name="textview">TextView</string>
+    <string name="set_dob">SET DOB</string>
+    <string name="status_bar">STATUS BAR</string>
+    <string name="date_of_birth">DATE OF BIRTH</string>
+    <string name="todo">TODO</string>
+    <string name="verified">Verified</string>
+    <string name="ashutosh_sharma">Ashutosh Sharma</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_aadhar_number_will_be_your_username_and_dob_will_be_your_password">Your Aadhar Number will be your \'Username\' and DOB will be your \'Password\'</string>
+    <string name="i_m_a_cadet">I\'M A CADET</string>
+    <string name="register_as_cadet"><u>Register as Cadet</u></string>
+</resources>

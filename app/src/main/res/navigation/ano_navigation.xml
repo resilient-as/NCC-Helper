@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    app:startDestination="@id/attendance">
+    <fragment
+        android:id="@+id/attendance"
+        android:name="com.example.ncc.CadetDetail"
+        android:label="Attendance"
+        tools:layout="@layout/fragment_cadet_detail" />
+    <fragment
+        android:id="@+id/cadetDetail"
+        android:name="com.example.ncc.CadetDetail"
+        android:label="Cadet Detail"
+        tools:layout="@layout/fragment_cadet_detail" />
+    <fragment
+        android:id="@+id/refreshmentDetail"
+        android:name="com.example.ncc.RefreshmentDetail"
+        android:label="Refreshment Detail"
+        tools:layout="@layout/fragment_refreshment_detail" />
+    <fragment
+        android:id="@+id/campDetail"
+        android:name="com.example.ncc.CampDetail"
+        android:label="Camp Detail"
+        tools:layout="@layout/fragment_camp_detail" />
+</navigation>

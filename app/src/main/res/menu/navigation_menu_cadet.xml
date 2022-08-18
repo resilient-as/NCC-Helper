@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/attendance"
+        android:icon="@drawable/attendance"
+        android:title="Attendance"/>
+    <item
+        android:id="@+id/cadetDetail"
+        android:icon="@drawable/contact"
+        android:title="Cadet's Details"/>
+    <item
+        android:id="@+id/campDetail"
+        android:icon="@drawable/camp"
+        android:title="Camps"/>
+</menu>
